@@ -1,5 +1,0 @@
-怎么运用camera kit 实现 time laps 功能? 有time laps mode 吗？
-
-另外， 可以把两个modes 合在一起用同一个process ID 开发吗？
-
-谢谢。
