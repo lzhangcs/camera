@@ -1,0 +1,13 @@
+代CP提问：
+
+I am using SENSOR_INFO_EXPOSURE_TIME_RANGE to calculate the range of supported exposure time： 
+https://developer.android.com/reference/android/hardware/camera2/CameraCharacteristics.html#SENSOR_INFO_EXPOSURE_TIME_RANGE
+
+I tested this in Huawei P30 Pro and it seems like this API is giving wrong values(10000 - 1000000000).
+
+But when I use the built in camera app's pro mode, there I can set exposure value to 30s which is really larger than what is provided by the API.
+
+How to get correct values for the range of supported exposure durations?
+
+
+谢谢
